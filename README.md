@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WUXI
+- 🔭 I’m currently working on WUXI, IEEE member
 - 🌱 I’m currently learning GAN and low-level vision 
 - 💬 Ask me about anything
 - 📫 How to reach me: SemiZxf@163.com
