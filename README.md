@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Ph.D student in SJTU(IWIN Lab), now i am a intern research in DAMO ACADEMIC (达摩院). My collaborator are Dr.Shen Chen, Dr.Yan Shao Tian and Dr. Yuan Xiao Song.
+- 🔭 I’m currently a Ph.D student in SJTU(IWIN Lab), now i am a intern research in DAMO ACADEMIC (达摩院). 
 - 🌱 I’m currently learning GAN/low-level/SAM/LLM/MLLM, explainable attention.
 - 💬 Ask me about anything
 - 📫 How to reach me: framebreak@sjtu.edu.cn. 微信：SemiZxf
