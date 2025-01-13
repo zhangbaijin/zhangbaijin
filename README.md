@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Ph.D student in SJTU(IWIN Lab), now i am a intern research in DAMO ACADEMIC (达摩院). 
-- 🌱 I’m currently learning LLM/MLLM, explainable attention.
+- 🌱 I’m currently learning LLM/MLLM, explainable attention, information flow, Truthful AI
 - 💬 Ask me about anything
 - 📫 How to reach me: framebreak@sjtu.edu.cn. 微信：SemiZxf
 - 🌱 homepage:([zhangbaijin.github.io](https://zhangbaijin.github.io/))
