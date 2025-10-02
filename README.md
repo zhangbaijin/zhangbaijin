@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a third-year Ph.D student in SJTU(IWIN Lab). 
+- 🔭 I’m currently a fourth-year Ph.D student in SJTU(IWIN Lab). 
 - 🌱 I’m currently learning LLM/MLLM, explainable attention, information flow, Truthful AI.
 - 💬 欢迎大家找我一起做一些有趣的工作~，目前做的是幻觉/信息流/显著性可解释性.😊😊
 - 📫 我的邮箱: framebreak@sjtu.edu.cn. 微信：SemiZxf
