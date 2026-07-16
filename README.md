@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a fourth-year Ph.D student in SJTU(IWIN Lab). 
+- 🔭 I’m received my Ph.D in SJTU(IWIN Lab), and i will be assistant professor in SooChow University.
 - 🌱 I’m currently learning LLM/MLLM, explainable attention, information flow, Truthful AI.
 - 💬 欢迎大家找我一起做一些有趣的工作.😊😊
 - 📫 我的邮箱: framebreak@sjtu.edu.cn. 微信：SemiZxf
