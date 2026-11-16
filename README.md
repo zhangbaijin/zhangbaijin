@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Now i am assistant professor in Soochow University, I’m received my Ph.D in SJTU(IWIN Lab).
-- 🌱 I’m currently learning LLM/MLLM, explainable attention, information flow, Truthful AI.
-- 💬 欢迎大家找我一起做一些有趣的工作.😊😊
-- 📫 我的邮箱: framebreak@sjtu.edu.cn. 微信：SemiZxf
+- 🌱 I’m currently learning LLM/MLLM,,WAM, explainable attention, information flow, Truthful AI.
+- 💬 欢迎大家找我一起做一些有趣的工作,我在招RA来做科研实习，要求3-6个月，目标CCF A,欢迎基础好的同学们找我聊呀~😊😊
+- 📫 我的邮箱: SemiZxf@suda.edu.cn. 微信：SemiZxf
 - 📕 钱塘江上朝信来，今日方知我是我。
 - 🌱 homepage:([zhangbaijin.github.io](https://zhangbaijin.github.io/))
 - 💬 Google sclolar: [Google scholar](https://scholar.google.co.jp/citations?hl=zh-CN&user=Y6Z5xQQAAAAJ)
